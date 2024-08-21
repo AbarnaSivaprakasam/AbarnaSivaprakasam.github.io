@@ -19,7 +19,7 @@ In this project, I leveraged AI technologies such as Computer Vision and NLP to 
 - **Tools & Technologies**: Azure Document Intelligence API, OpenAI API
 - **Key Contributions**: Extracted critical information from printed prescriptions, implemented personalized care recommendations.
   
-[Explore the project](./MedGuidance)
+[Explore the project](https://github.com/AbarnaSivaprakasam/MedGuidance)
 
 ### [Appliances Energy Prediction](./AppliancesEnergyPrediction)
 Led a collaborative effort in analyzing energy consumption patterns and predicting future trends using advanced machine learning techniques.
@@ -27,7 +27,7 @@ Led a collaborative effort in analyzing energy consumption patterns and predicti
 - **Tools & Technologies**: Python, EDA, Random Forest, XGBoost, Linear Regression
 - **Key Insights**: Identified key patterns in energy usage, improving predictive accuracy.
 
-[Explore the project](./AppliancesEnergyPrediction)
+[Explore the project](https://github.com/AbarnaSivaprakasam/AppliancesEnergyPrediction)
 
 ### [Medical Malpractice Analysis](./MedicalMalpractice)
 Conducted a detailed statistical analysis of a US medical malpractice dataset, uncovering critical insights about the healthcare industry.
@@ -35,14 +35,13 @@ Conducted a detailed statistical analysis of a US medical malpractice dataset, u
 - **Tools & Technologies**: t-tests, Kruskal-Wallis tests, correlation analysis, regression
 - **Key Findings**: Highlighted trends in malpractice claims that could inform policy and practice.
 
-[Explore the project](./MedicalMalpractice)
+[Explore the project](https://github.com/AbarnaSivaprakasam/MedicalMalpractice)
 
 ### [Laptop Price Analysis](https://github.com/AbarnaSivaprakasm/Laptop-price-Analysis)
 In this project, I conducted an extensive analysis of the latest laptop models available in the market as of October 2023. Using data from Kaggle, I explored trends and insights related to specifications, pricing, and consumer preferences. Key insights include the popularity of specific CPU and GPU types, screen sizes, and operating systems, along with pricing trends among major brands.
 
 - **Tools & Technologies**: R, dplyr, tidyverse, ggplot2
 - **Key Findings**: Non-touchscreen laptops dominate the market, Intel i7 CPUs are the most popular, and Windows is the leading operating system.
-- **Visualizations**: Bar plots, scatter plots, and box plots illustrate the distribution of specifications and pricing trends.
 
 [Explore the full analysis](https://github.com/AbarnaSivaprakasm/Laptop-price-Analysis)
 
