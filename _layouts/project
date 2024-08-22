@@ -1,0 +1,23 @@
+<!-- Projects Section -->
+<section id="projects" style="padding: 50px 20px; background-color: #f9f9f9;">
+    <h2 style="font-family: 'Helvetica Neue', sans-serif; text-align: center;">Featured Projects</h2>
+    <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+
+        <div style="text-align: center; margin: 20px;">
+            <img src="{{ site.baseurl }}/assets/img/medguidance.png" alt="MedGuidance Project" style="width: 200px;">
+            <h3>MedGuidance - Healthcare AI Integration</h3>
+            <p>Leverage AI technologies such as Computer Vision and NLP to enhance healthcare diagnostics and personalized care recommendations.</p>
+            <a href="link_to_project" style="color: #0073e6; text-decoration: none;">Explore the project</a>
+        </div>
+
+        <div style="text-align: center; margin: 20px;">
+            <img src="{{ site.baseurl }}/assets/img/energy.png" alt="Appliances Energy Prediction" style="width: 200px;">
+            <h3>Appliances Energy Prediction</h3>
+            <p>Analyzed energy consumption patterns and predicted future trends using advanced machine learning techniques.</p>
+            <a href="link_to_project" style="color: #0073e6; text-decoration: none;">Explore the project</a>
+        </div>
+
+        <!-- Repeat similar blocks for other projects -->
+
+    </div>
+</section>
