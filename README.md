@@ -1,6 +1,5 @@
 # Abarna Sivaprakasm's Data Analytics Portfolio
 
-
 Welcome to my data analytics portfolio! I'm Abarna Sivaprakasm, a passionate data analyst with a strong background in statistical analysis, machine learning, and data visualization. This GitHub Pages site is dedicated to showcasing my work, projects, and achievements in the field of data science and analytics.
 
 ## 🌟 About Me
@@ -8,7 +7,7 @@ I'm currently pursuing my Master's in Analytics at Northeastern University, wher
 
 ## 📂 Featured Projects
 
-### [MedGuidance - Healthcare AI Integration](./MedGuidance)
+### [MedGuidance - Healthcare AI Integration](https://github.com/AbarnaSivaprakasam/MedGuidance)
 In this project, I leveraged AI technologies such as Computer Vision and NLP to enhance healthcare diagnostics and personalized care recommendations. 
 
 - **Tools & Technologies**: Azure Document Intelligence API, OpenAI API
@@ -16,7 +15,7 @@ In this project, I leveraged AI technologies such as Computer Vision and NLP to 
   
 [Explore the project](https://github.com/AbarnaSivaprakasam/MedGuidance)
 
-### [Appliances Energy Prediction](./AppliancesEnergyPrediction)
+### [Appliances Energy Prediction](https://github.com/AbarnaSivaprakasam/AppliancesEnergyPrediction)
 Led a collaborative effort in analyzing energy consumption patterns and predicting future trends using advanced machine learning techniques.
 
 - **Tools & Technologies**: Python, EDA, Random Forest, XGBoost, Linear Regression
@@ -24,7 +23,7 @@ Led a collaborative effort in analyzing energy consumption patterns and predicti
 
 [Explore the project](https://github.com/AbarnaSivaprakasam/AppliancesEnergyPrediction)
 
-### [Medical Malpractice Analysis](./MedicalMalpractice)
+### [Medical Malpractice Analysis](https://github.com/AbarnaSivaprakasam/MedicalMalpractice)
 Conducted a detailed statistical analysis of a US medical malpractice dataset, uncovering critical insights about the healthcare industry.
 
 - **Tools & Technologies**: t-tests, Kruskal-Wallis tests, correlation analysis, regression
@@ -40,12 +39,13 @@ In this project, I conducted an extensive analysis of the latest laptop models a
 
 [Explore the full analysis](https://github.com/AbarnaSivaprakasm/Laptop-price-Analysis)
 
-### [Risk Management Analysis for Amdocs](./RiskManagementAnalysis)
+### [Risk Management Analysis for Amdocs](https://github.com/AbarnaSivaprakasam/Risk_Management)
 Conducted a risk assessment using various analytical techniques to evaluate potential acquisition risks for Amdocs.
 
 - **Tools & Technologies**: SWOT analysis, Monte Carlo simulation, Decision Tree Analysis
 - **Key Contributions**: Developed strategies to mitigate potential risks, aiding in strategic decision-making.
 
+[Explore the full analysis](https://github.com/AbarnaSivaprakasam/Risk_Management)
 
 ## 📜 Certifications
 - **Google Data Analytics Professional Certificate**
