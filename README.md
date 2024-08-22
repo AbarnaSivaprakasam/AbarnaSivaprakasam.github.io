@@ -6,11 +6,6 @@ Welcome to my data analytics portfolio! I'm Abarna Sivaprakasm, a passionate dat
 ## 🌟 About Me
 I'm currently pursuing my Master's in Analytics at Northeastern University, where I dive deep into the world of data every day. My goal is to leverage data to drive informed decision-making and contribute to organizational growth. With a strong foundation in Python, SQL, R, and various data visualization tools, I enjoy transforming raw data into meaningful insights.
 
-## 🔍 What You'll Find Here
-- **Projects**: Explore the various projects I’ve worked on, ranging from predictive modeling to interactive dashboards. Each project showcases my problem-solving approach, technical skills, and the impact of my work.
-- **Certifications**: I believe in continuous learning. Check out the certifications I’ve earned from industry-recognized platforms to stay ahead in the field of data analytics.
-- **Contact Information**: Let's connect! Whether you're interested in collaboration, have a job opportunity, or just want to discuss data, you can reach out to me via email or LinkedIn.
-
 ## 📂 Featured Projects
 
 ### [MedGuidance - Healthcare AI Integration](./MedGuidance)
