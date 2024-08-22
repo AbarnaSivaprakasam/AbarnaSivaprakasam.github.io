@@ -1,0 +1,22 @@
+<!-- Skills Section -->
+<section id="skills" style="padding: 50px 20px; background-color: #ffffff;">
+    <h2 style="font-family: 'Helvetica Neue', sans-serif; text-align: center;">Skills</h2>
+    <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+        <div style="text-align: center; margin: 20px;">
+            <img src="{{ site.baseurl }}/assets/img/python.png" alt="Python" style="width: 50px;">
+            <p>Python</p>
+        </div>
+        <div style="text-align: center; margin: 20px;">
+            <img src="{{ site.baseurl }}/assets/img/sql.png" alt="SQL" style="width: 50px;">
+            <p>SQL</p>
+        </div>
+        <div style="text-align: center; margin: 20px;">
+            <img src="{{ site.baseurl }}/assets/img/r.png" alt="R" style="width: 50px;">
+            <p>R</p>
+        </div>
+        <div style="text-align: center; margin: 20px;">
+            <img src="{{ site.baseurl }}/assets/img/tableau.png" alt="Tableau" style="width: 50px;">
+            <p>Tableau</p>
+        </div>
+    </div>
+</section>
