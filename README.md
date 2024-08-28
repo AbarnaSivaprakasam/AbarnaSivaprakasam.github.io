@@ -15,21 +15,21 @@ In this project, I leveraged AI technologies such as Computer Vision and NLP to 
   
 [Explore the project](https://github.com/AbarnaSivaprakasam/MedGuidance)
 
-### [Appliances Energy Prediction](https://github.com/AbarnaSivaprakasam/AppliancesEnergyPrediction)
+### [Appliances Energy Prediction](https://github.com/AbarnaSivaprakasam/Appliances-Energy-Prediction)
 Led a collaborative effort in analyzing energy consumption patterns and predicting future trends using advanced machine learning techniques.
 
 - **Tools & Technologies**: Python, EDA, Random Forest, XGBoost, Linear Regression
 - **Key Insights**: Identified key patterns in energy usage, improving predictive accuracy.
 
-[Explore the project](https://github.com/AbarnaSivaprakasam/AppliancesEnergyPrediction)
+[Explore the project](https://github.com/AbarnaSivaprakasam/Appliances-Energy-Prediction)
 
-### [Medical Malpractice Analysis](https://github.com/AbarnaSivaprakasam/MedicalMalpractice)
+### [Medical Malpractice Analysis](https://github.com/AbarnaSivaprakasam/Medical-Malpractice-Analysis)
 Conducted a detailed statistical analysis of a US medical malpractice dataset, uncovering critical insights about the healthcare industry.
 
 - **Tools & Technologies**: t-tests, Kruskal-Wallis tests, correlation analysis, regression
 - **Key Findings**: Highlighted trends in malpractice claims that could inform policy and practice.
 
-[Explore the project](https://github.com/AbarnaSivaprakasam/MedicalMalpractice)
+[Explore the project](https://github.com/AbarnaSivaprakasam/Medical-Malpractice-Analysis)
 
 ### [Laptop Price Analysis](https://github.com/AbarnaSivaprakasm/Laptop-price-Analysis)
 In this project, I conducted an extensive analysis of the latest laptop models available in the market as of October 2023. Using data from Kaggle, I explored trends and insights related to specifications, pricing, and consumer preferences. Key insights include the popularity of specific CPU and GPU types, screen sizes, and operating systems, along with pricing trends among major brands.
